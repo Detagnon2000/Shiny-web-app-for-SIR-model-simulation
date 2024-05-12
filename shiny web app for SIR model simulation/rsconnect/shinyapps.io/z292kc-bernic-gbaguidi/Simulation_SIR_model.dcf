@@ -1,0 +1,12 @@
+name: Simulation_SIR_model
+title: Simulation_SIR_model
+username: z292kc-bernic-gbaguidi
+account: z292kc-bernic-gbaguidi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11934710
+bundleId: 8586393
+url: https://z292kc-bernic-gbaguidi.shinyapps.io/Simulation_SIR_model/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
